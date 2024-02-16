@@ -13,5 +13,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: test
-        run: python 1.py
+        run:
+         
+         python 1.py
         
